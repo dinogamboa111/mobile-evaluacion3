@@ -41,8 +41,10 @@ Aplicación móvil desarrollada en **Android (Kotlin)** que consume servicios de
 
 | Método | Endpoint | Descripción |
 |--------|----------|-------------|
+| POST | /api/planetas/inicializar-datos | Crea bbdd inicial con 10 planetas | **puede ejecutarse directo en navegador si tienes corriendo la API backend
 | POST | /api/planetas/ | Crear planetas |
 | GET | /api/planetas/ | Listar planetas |
+
 
 ---
 
