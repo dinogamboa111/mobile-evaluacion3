@@ -90,7 +90,8 @@ Archivo .JKS
 <img width="908" height="240" alt="image" src="https://github.com/user-attachments/assets/47a6a74c-c1e5-48d8-91ec-e07b474d8d2f" />
 
 
-Tecnologías Utilizadas
+## Tecnologías Utilizadas
+
 Kotlin
 
 Android Studio
