@@ -79,13 +79,17 @@ Ejecutar en emulador o dispositivo físico:
 
 Captura del APK Firmado y Archivo .JKS
 APK Generado
+
+
 <img width="718" height="504" alt="image" src="https://github.com/user-attachments/assets/11553474-d11f-4d9f-a1d3-e1e76fedc5e7" />
 
 Archivo .JKS
+
+
 <img width="908" height="240" alt="image" src="https://github.com/user-attachments/assets/47a6a74c-c1e5-48d8-91ec-e07b474d8d2f" />
 
 
-🛠️ Tecnologías Utilizadas
+Tecnologías Utilizadas
 Kotlin
 
 Android Studio
