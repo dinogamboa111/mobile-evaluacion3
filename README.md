@@ -38,6 +38,9 @@ Aplicación móvil desarrollada en **Android (Kotlin)** que consume servicios de
 | PUT | /api/misiones/{id} | Actualizar misión |
 | DELETE | /api/misiones/{id} | Eliminar misión |
 
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
 | POST | /api/planetas/ | Crear planetas |
 | GET | /api/planetas/ | Listar planetas |
 
