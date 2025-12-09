@@ -80,6 +80,7 @@ Ejecutar en emulador o dispositivo físico:
 Captura del APK Firmado y Archivo .JKS
 APK Generado
 
+<img width="347" height="746" alt="image" src="https://github.com/user-attachments/assets/b92c39c1-658c-48b4-a17f-915d1b0047f2" />
 
 <img width="718" height="504" alt="image" src="https://github.com/user-attachments/assets/11553474-d11f-4d9f-a1d3-e1e76fedc5e7" />
 
@@ -98,6 +99,8 @@ Retrofit
 
 MVVM
 
+Axios
+
 Spring Boot
 
 PostgreSQL
@@ -106,7 +109,7 @@ Git & GitHub
 
 Gradle
 
-Axios
+
 ---
 
 
